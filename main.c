@@ -83,7 +83,7 @@ int from_input_to_hidden(){
 int output(int result) {
     if (result % 2 == 0) {
         printf("Final number is even \n");
-        int r = max(0.0, int result);
+        int r = max(0.0, result);
         return r;
     }
     else {
