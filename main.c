@@ -77,7 +77,7 @@ int from_input_to_hidden(){
 //        int result
 //)
 
-
+// -------------------------------------------------
 // Zrobić funkcję max:
 
 int output(int result) {
@@ -91,6 +91,8 @@ int output(int result) {
         return 0;
     }
 }
+// -------------------------------------------------
+
 
 
 int main(){
