@@ -4,7 +4,7 @@
 
 <h2>Visualization of basic FFN model</h2>
 <img 
-  src="https://i.imgur.com/fNhQv7i.jpg" 
+  src="https://i.imgur.com/goOh8qy.jpg" 
   alt="Visualization of FFN" 
   title="Visualization of FFN" 
   style="display: inline-block; margin: 0 auto; width: 50em">
