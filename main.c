@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
+
+#define max(a,b) \
+   ({ __typeof__ (a) _a = (a); \
+       __typeof__ (b) _b = (b); \
+     _a > _b ? _a : _b; })
+
+
 int generateRandomNumber(int max) {
 //    srand(time(NULL));
     return (rand() % max) + 1;
